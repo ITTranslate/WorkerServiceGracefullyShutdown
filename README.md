@@ -12,3 +12,7 @@ dotnet new worker -n "MyService"
 dotnet build
 dotnet run
 ```
+
+## 修改 Worker.cs
+
+主要的修改在 `Worker` 类。
