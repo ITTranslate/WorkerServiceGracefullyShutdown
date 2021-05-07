@@ -29,11 +29,13 @@ namespace MyService
         {
             try
             {
+                // 这里实现实际的业务逻辑
                 while (!stoppingToken.IsCancellationRequested)
                 {
                     try
                     {
                         _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
+                        
                         await SomeMethodThatDoesTheWork(stoppingToken);
                     }
                     catch (Exception ex)

@@ -1,4 +1,6 @@
-# 基于控制台程序创建服务示例
+# Worker Service 优雅退出
+
+## 创建 Worker Service
 
 ```bash
 dotnet new worker -n "MyService"
