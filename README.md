@@ -17,6 +17,6 @@ dotnet run
 
 主要的修改在 `Worker` 类。
 
-## 下一步，添加 Serilog 日志记录
+<!-- ## 下一步，添加 Serilog 日志记录
 
-请转到项目：<https://github.com/ITTranslate/WorkerServiceWithSerilog>
+请转到项目：<https://github.com/ITTranslate/WorkerServiceWithSerilog> -->
