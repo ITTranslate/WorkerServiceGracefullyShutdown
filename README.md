@@ -15,8 +15,8 @@ dotnet run
 
 ## 修改 Worker.cs
 
-主要的修改在 `Worker` 类。
+基于默认的 Worker Service 模板项目，主要的修改在 `Worker` 类。
 
-## 下一步，添加 Serilog 日志记录
+## 相关项目
 
-请转到项目：<https://github.com/ITTranslate/WorkerServiceWithSerilog>
+添加 Serilog 日志记录：<https://github.com/ITTranslate/WorkerServiceWithSerilog>
