@@ -1,5 +1,7 @@
 # Worker Service 优雅退出
 
+[Read the related article](https://ittranslator.cn/dotnet/csharp/2021/05/17/worker-service-gracefully-shutdown.html).
+
 ## 创建 Worker Service
 
 ```bash
@@ -19,4 +21,4 @@ dotnet run
 
 ## 相关项目
 
-添加 Serilog 日志记录：<https://github.com/ITTranslate/WorkerServiceWithSerilog>
+- [添加 Serilog 日志记录](https://github.com/ITTranslate/WorkerServiceWithSerilog)
