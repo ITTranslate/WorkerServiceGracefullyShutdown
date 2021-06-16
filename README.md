@@ -22,3 +22,4 @@ dotnet run
 ## 相关项目
 
 - [添加 Serilog 日志记录](https://github.com/ITTranslate/WorkerServiceWithSerilog)
+- [.NET Worker Service 作为 Windows 服务运行及优雅退出改进](https://github.com/ITTranslate/WorkerServiceAsWindowsService)
